@@ -7,10 +7,15 @@ of records is an unsolved challenge. The problem becomes more complicated in cas
 data is coming from multiple sources. Following variations are same as Vladimir Frometa:
 
 Vladimir Antonio Frometa Garo
+
 Vladimir A Frometa Garo
+
 Vladimir Frometa
+
 Vladimir Frometa G
+
 Vladimir A Frometa
+
 Vladimir A Frometa G
 
 ## Problem Statement
